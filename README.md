@@ -1,5 +1,5 @@
 ### Motion Prediction
-This repo implements a mixture of experts approach integrated with the state of the art Spatio-Temporal Transformer building upon the open source Fairmotion library. The research paper for this repo is located here: [Project Report PDF](https://github.com/edshieh/motionprediction/blob/main/Motion_Prediction.pdf).
+This repo implements a mixture of experts approach integrated with the state of the art Spatio-Temporal Transformer building upon the open source Fairmotion library. The research paper for this repo is located here: [Project Report PDF](https://github.com/edshieh/motionprediction/blob/main/Motion_Prediction.pdf). You can also find the arxiv link here: https://arxiv.org/abs/2405.06088.
 
 
 ### Installation
